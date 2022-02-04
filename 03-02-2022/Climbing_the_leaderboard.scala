@@ -1,4 +1,4 @@
-//Hackerrank - Medium Level - 20 -- 3rd feb
+//Hackerrank - Medium Level - 20 - 3rd feb
 import scala.collection.mutable.{ListBuffer,ArrayBuffer}
 import scala.io.StdIn.readLine
 
