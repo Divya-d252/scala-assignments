@@ -1,0 +1,1 @@
+# scala-assignments from Hackerrank
