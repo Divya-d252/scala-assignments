@@ -1,3 +1,7 @@
+// https://www.hackerrank.com/challenges/candies/problem?h_r=internal-search
+
+// Hackerrank Medium difficulty - 50
+
 import scala.collection.mutable.ArrayBuffer
 object Candies {
   def main(args: Array[String]): Unit = {
