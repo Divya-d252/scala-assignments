@@ -1,3 +1,7 @@
+// https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem?isFullScreen=true
+
+// Hackerrank - Medium
+
 import scala.collection.mutable.Map
 object Sherlock_Valid_String {
   def main(args: Array[String]): Unit = {
