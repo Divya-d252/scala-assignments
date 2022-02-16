@@ -1,3 +1,7 @@
+// https://www.hackerrank.com/challenges/almost-sorted/problem?isFullScreen=true
+
+// Hackerrank - Medium difficulty
+
 import scala.collection.mutable.ArrayBuffer
 import scala.util.control.Breaks._
 object Almost_Sorted {
