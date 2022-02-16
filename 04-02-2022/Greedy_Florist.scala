@@ -1,3 +1,7 @@
+// https://www.hackerrank.com/challenges/greedy-florist/problem?isFullScreen=true
+
+// Hackerrank Medium level
+
 object Greedy_Florist {
   def main(args: Array[String]): Unit = {
     println(getMinimumCost(3,Array(1,3,5,7,9)))
