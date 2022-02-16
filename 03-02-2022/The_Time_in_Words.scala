@@ -1,9 +1,14 @@
+// https://www.hackerrank.com/challenges/the-time-in-words/problem?isFullScreen=true
+
 //Hacker Rank - Level Medium -30 - 3rd feb
-object The_Time_in_Words {
+
+object The_Time_in_Words 
+{
   def main(args: Array[String]): Unit = {
     println(timeInWords(5,59))
   }
   def timeInWords(hour: Int, minute: Int): String = {
+    
     var numbertoWord:Map[String,String]=Map("1"->"one","2"->"two","3"->"three","4"->"four",
       "5"->"five","6"->"six","7"->"seven","8"->"eight","9"->"nine","10"->"ten","11"->"eleven",
       "12"->"twelve","13"->"thirteen","14"->"fourteen","16"->"sixteen","17"->"seventeen",
