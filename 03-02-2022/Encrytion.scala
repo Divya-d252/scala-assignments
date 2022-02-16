@@ -1,3 +1,5 @@
+// https://www.hackerrank.com/challenges/encryption/problem?isFullScreen=true
+
 //Hacker Rank - Level Medium -30 - 3rd feb
 object Encrytion {
   def main(args: Array[String]): Unit = {
