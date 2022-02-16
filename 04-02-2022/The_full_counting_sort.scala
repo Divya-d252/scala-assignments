@@ -1,3 +1,7 @@
+// https://www.hackerrank.com/challenges/countingsort4/copy-from/254906370
+
+// Hackerrank Medium difficulty
+
 import scala.collection.mutable.ListBuffer
 object The_full_counting_sort {
   def main(args: Array[String]): Unit = {
